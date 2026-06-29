@@ -25,9 +25,18 @@ public class AudioManager : MonoBehaviour
         audioSource.Play();
     }
 
-    // حالا ولوم رو هم میگیره
     public void PlaySound(AudioClip clip, float volume = 1f)
     {
         audioSource.PlayOneShot(clip, volume);
+    }
+
+    public void StopMusic()
+    {
+        audioSource.Stop();
+    }
+
+    public void PlayMusic()
+    {
+        audioSource.Play();
     }
 }

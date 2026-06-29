@@ -7,9 +7,9 @@ public class LevelSelectManager : MonoBehaviour
     [Range(0f, 1f)]
     public float clickVolume = 0.8f;
 
-    public void OnBackButton()
+    public void OnLevel1Button()
     {
         AudioManager.Instance.PlaySound(clickSound, clickVolume);
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("Level1_m1");
     }
 }
