@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b072cfa7fcc0cfc4891436c3ee274fda
+guid: 025531d1abb6097448157282097db0f0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8894378161134838276
-    second: Bg_0
+      213: 7463361840092284634
+    second: Anchor_Mouth1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bg_0
+      name: Anchor_Mouth1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1280
-        height: 721
+        width: 1672
+        height: 941
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cfdd097df22d09480800000000000000
-      internalID: -8894378161134838276
+      spriteID: ad608ec0d00339760800000000000000
+      internalID: 7463361840092284634
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bg_0: -8894378161134838276
+      Anchor_Mouth1_0: 7463361840092284634
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

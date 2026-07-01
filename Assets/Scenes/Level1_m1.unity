@@ -178,8 +178,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8bf62e727e569454290c5269bfcab748, type: 2}
-  m_sharedMaterial: {fileID: -6949820610600499109, guid: 3fbde2e562e333d488bc46986fc6f4f1, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 12a626adff8e64340a21b15c90569ed3, type: 2}
+  m_sharedMaterial: {fileID: -393344135853397389, guid: 12a626adff8e64340a21b15c90569ed3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -245,7 +245,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
   preserveNumbers: 0
@@ -532,7 +532,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3564869280972155679, guid: f4755423cc36d1543b46329e2c29ccb9, type: 3}
+  m_Sprite: {fileID: 7463361840092284634, guid: 025531d1abb6097448157282097db0f0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -584,13 +584,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   dialogBox: {fileID: 928944876}
   dialogText: {fileID: 619002368}
-  dialog: "\u0628\u0627 \u0646\u0632\u062F\u06CC\u06A9 \u0634\u062F\u0646 \u0627\u0646\u062A\u062E\u0627\u0628\u0627\u062A\u060C
-    \u0646\u0627\u0645\u0632\u062F\u0647\u0627\u06CC \u062A\u0627\u06CC\u06CC\u062F
-    \u0634\u062F\u0647 \u0622\u0645\u0627\u062F\u0647 \u0645\u06CC\u200C\u0634\u0648\u0646\u062F..."
+  dialog: "\u0628\u0627 \u0646\u0632\u062F\u06CC\u06A9 \u0634\u062F\u0646 \u0627\u0646\u062A\u062E\u0627\u0628\u0627\u062A
+    \u0646\u0627\u0645\u0632\u062F \u0647\u0627\u06CC \u062A\u0627\u06CC\u06CC\u062F
+    \u0634\u062F\u0647 \u0622\u0645\u0627\u062F\u0647 \u0645\u06CC \u0634\u0648\u0646\u062F
+    \r\n\u0628\u0647 \u0632\u0648\u062F\u06CC \u0628\u0631\u0646\u0627\u0645\u0647
+    \u0647\u0627\u06CC \u0627\u0646\u062A\u062E\u0627\u0628\u0627\u062A\u06CC \u062F\u0631
+    \u0645\u0635\u0627\u062D\u0628\u0647 \u0647\u0627\u06CC \u0631\u0633\u0645\u06CC
+    \u0627\u0632 \u062A\u0644\u0648\u06CC\u0648\u0632\u0646  \u0645\u0646\u062A\u0634\u0631
+    \u062E\u0648\u0627\u0647\u062F \u0634\u062F"
   typingSpeed: 0.1
-  typingSound: {fileID: 8300000, guid: 6787a2eda7c6a104e942d72d5a8d50c0, type: 3}
+  typingSound: {fileID: 8300000, guid: dbf867f7db1b71842a4f9cab6401b832, type: 3}
   typingVolume: 1
+  newsAmbience: {fileID: 8300000, guid: b8573876888992a42bcbc8e699c33af0, type: 3}
+  newsVolume: 0.44
+  mouthObjects: []
+  mouthSwitchSpeed: 0.15
   nextScene: Level1_m2
+  clickDelay: 5
 --- !u!114 &1486884176
 MonoBehaviour:
   m_ObjectHideFlags: 0
