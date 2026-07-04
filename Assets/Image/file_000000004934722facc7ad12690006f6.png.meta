@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b854eaa5adf96174d93176e01c65b711
+guid: 34843c4e159902744b128484bf5452c6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -500225105698623073
-    second: Tansimat_0
+      213: 7444590754201472
+    second: file_000000004934722facc7ad12690006f6_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tansimat_0
+      name: file_000000004934722facc7ad12690006f6_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f91f91baae7de09f0800000000000000
-      internalID: -500225105698623073
+      spriteID: 08ff66bd0d27a1000800000000000000
+      internalID: 7444590754201472
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Tansimat_0: -500225105698623073
+      file_000000004934722facc7ad12690006f6_0: 7444590754201472
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

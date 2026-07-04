@@ -1,15 +1,15 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class LevelSelectManager : MonoBehaviour
+public class SettingsManager : MonoBehaviour
 {
     public AudioClip clickSound;
     [Range(0f, 1f)]
     public float clickVolume = 0.8f;
 
-    public void OnLevel1Button()
+    public void OnBackButton()
     {
         AudioManager.Instance.PlaySound(clickSound, clickVolume);
-        SceneManager.LoadScene("Level1_m1");
+        SceneManager.LoadScene("MainMenu");
     }
 }
