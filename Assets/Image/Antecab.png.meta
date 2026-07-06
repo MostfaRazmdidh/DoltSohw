@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 025531d1abb6097448157282097db0f0
+guid: 0f18bdd7060193e47a7d6209bb943c8b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7463361840092284634
-    second: Anchor_Mouth1_0
+      213: 5728010975225461517
+    second: Antecab_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Anchor_Mouth1_0
+      name: Antecab_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1672
-        height: 941
+        x: 104
+        y: 348
+        width: 1290
+        height: 377
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad608ec0d00339760800000000000000
-      internalID: 7463361840092284634
+      spriteID: d0b3ad732abfd7f40800000000000000
+      internalID: 5728010975225461517
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 96f011f8acd0e6442b787ab2d6797f67
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Anchor_Mouth1_0: 7463361840092284634
+      Antecab_0: 5728010975225461517
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3e0aac823aac8ab4fb9b9896493e5909
+guid: 49bfcd38dbd00aa428000c8d5202f8b8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7097654310729898839
-    second: Anchor_Mouth2_0
+      213: 4152683709798556691
+    second: ChatGPT Image Jul 5, 2026, 09_11_47 AM_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Anchor_Mouth2_0
+      name: Stieng_btn
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1672
-        height: 941
+        x: 114
+        y: 328
+        width: 1366
+        height: 466
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 75b53999dfeef7260800000000000000
-      internalID: 7097654310729898839
+      spriteID: 314281b05db41a930800000000000000
+      internalID: 4152683709798556691
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 07266351f078ff047bdd38c1c74b22aa
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Anchor_Mouth2_0: 7097654310729898839
+      Stieng_btn: 4152683709798556691
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

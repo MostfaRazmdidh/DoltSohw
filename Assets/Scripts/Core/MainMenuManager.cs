@@ -18,4 +18,10 @@ public class MainMenuManager : MonoBehaviour
         AudioManager.Instance.PlaySound(clickSound, clickVolume);
         SceneManager.LoadScene("Settings");
     }
+
+    public void OnNewsButton()
+    {
+        AudioManager.Instance.PlaySound(clickSound, clickVolume);
+        SceneManager.LoadScene("Rozname");
+    }
 }

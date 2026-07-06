@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: c94fc0d75d740d34b91064959bcd7e39
+guid: a1ada3ae1a6cdec48a16c6a9967b5c5f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1511862975104126914
-    second: Ba_0
+      213: 7218308033340971328
+    second: Baceu_Btn_0
+  - first:
+      213: -6593890706580934485
+    second: Baceu_Btn_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +116,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ba_0
+      name: Baceu_Btn_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1672
-        height: 941
+        x: 197
+        y: 425
+        width: 1102
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e307ad362a8c40be0800000000000000
-      internalID: -1511862975104126914
+      spriteID: 04913ae79e49c2460800000000000000
+      internalID: 7218308033340971328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baceu_Btn_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 735
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba07e7a965bcd74a0800000000000000
+      internalID: -6593890706580934485
       vertices: []
       indices: 
       edges: []
@@ -138,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6427ce3f3cbb23c468a28ff18588a806
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Ba_0: -1511862975104126914
+      Baceu_Btn_0: 7218308033340971328
+      Baceu_Btn_1: -6593890706580934485
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

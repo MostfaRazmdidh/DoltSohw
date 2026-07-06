@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: ddacd23769c822644a77e70178d6d642
+guid: 89773e49ca0f7e94fb7b527b93cc9ab2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 275855373524554167
-    second: Avesta_0
+      213: 7186613361991986229
+    second: Craecter_0
+  - first:
+      213: -472141530096004279
+    second: Craecter_1
+  - first:
+      213: 3144892601465268554
+    second: Craecter_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,23 +119,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Avesta_0
+      name: Craecter_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 800
-        height: 800
+        x: 574
+        y: 172
+        width: 382
+        height: 756
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b1505c200904d300800000000000000
-      internalID: 275855373524554167
+      spriteID: 53cab93c6cafbb360800000000000000
+      internalID: 7186613361991986229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craecter_1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 175
+        width: 388
+        height: 757
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9431be6a7cd9279f0800000000000000
+      internalID: -472141530096004279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craecter_2
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 200
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49671f9827e4ab20800000000000000
+      internalID: 3144892601465268554
       vertices: []
       indices: 
       edges: []
@@ -138,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: da9486a1dba81c34c98989586f45e59b
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Avesta_0: 275855373524554167
+      Craecter_0: 7186613361991986229
+      Craecter_1: -472141530096004279
+      Craecter_2: 3144892601465268554
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
