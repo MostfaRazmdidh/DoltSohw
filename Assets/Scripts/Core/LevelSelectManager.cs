@@ -10,12 +10,12 @@ public class LevelSelectManager : MonoBehaviour
     public void OnLevel1Button()
     {
         AudioManager.Instance.PlaySound(clickSound, clickVolume);
-        SceneManager.LoadScene("Level1_m1");
+        DoorTransition.Instance.GoToScene("Level1_m1");
     }
 
     public void OnBackButton()
     {
         AudioManager.Instance.PlaySound(clickSound, clickVolume);
-        SceneManager.LoadScene("MainMenu");
+        DoorTransition.Instance.GoToScene("MainMenu");
     }
 }

@@ -10,18 +10,18 @@ public class MainMenuManager : MonoBehaviour
     public void OnStartButton()
     {
         AudioManager.Instance.PlaySound(clickSound, clickVolume);
-        SceneManager.LoadScene("LevelSelect");
+        DoorTransition.Instance.GoToScene("LevelSelect");
     }
 
     public void OnSettingsButton()
     {
         AudioManager.Instance.PlaySound(clickSound, clickVolume);
-        SceneManager.LoadScene("Settings");
+        DoorTransition.Instance.GoToScene("Settings");
     }
 
     public void OnNewsButton()
     {
         AudioManager.Instance.PlaySound(clickSound, clickVolume);
-        SceneManager.LoadScene("Rozname");
+        DoorTransition.Instance.GoToScene("Rozname");
     }
 }

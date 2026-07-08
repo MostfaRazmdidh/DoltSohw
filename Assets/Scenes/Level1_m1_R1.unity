@@ -168,13 +168,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CharacterSelectManager
   characters:
-  - characterId: 
+  - characterId: "\u067E\u06CC\u0631\u0645\u0631\u062F"
     characterButton: {fileID: 1022055727}
-  - characterId: 
+  - characterId: "\u067E\u06CC\u0631\u0632\u0646"
     characterButton: {fileID: 2040061064}
-  - characterId: 
+  - characterId: "\u0632\u0646"
     characterButton: {fileID: 1240661779}
-  - characterId: 
+  - characterId: "\u0622\u0642\u0627"
     characterButton: {fileID: 2146213602}
   antecabNo: {fileID: 669763534}
   antecab: {fileID: 452462434}
@@ -534,7 +534,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -584, y: -37.608}
+  m_AnchoredPosition: {x: -584, y: -49.053}
   m_SizeDelta: {x: 369.991, y: 600.972}
   m_Pivot: {x: 0.50000006, y: 0.50000006}
 --- !u!114 &1022055727

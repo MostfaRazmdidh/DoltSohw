@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class SettingsManager : MonoBehaviour
 {
@@ -10,6 +9,6 @@ public class SettingsManager : MonoBehaviour
     public void OnBackButton()
     {
         AudioManager.Instance.PlaySound(clickSound, clickVolume);
-        SceneManager.LoadScene("MainMenu");
+        DoorTransition.Instance.GoToScene("MainMenu");
     }
 }

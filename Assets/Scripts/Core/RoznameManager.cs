@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class RoznameManager : MonoBehaviour
 {
@@ -10,6 +9,6 @@ public class RoznameManager : MonoBehaviour
     public void OnBackButton()
     {
         AudioManager.Instance.PlaySound(clickSound, clickVolume);
-        SceneManager.LoadScene("MainMenu");
+        DoorTransition.Instance.GoToScene("MainMenu");
     }
 }
