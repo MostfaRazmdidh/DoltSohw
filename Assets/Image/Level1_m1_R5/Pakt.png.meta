@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8af56e43ec474bc4dbee5e8ce0200a2a
+guid: 3f4d42e1ea8d8584ab431d4fd57a2a26
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5776922245920141773
-    second: DialogBoxpng_0
+      213: 7405661294618894375
+    second: Name_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DialogBoxpng_0
+      name: Name_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 185
-        width: 1640
-        height: 756
+        x: 176
+        y: 171
+        width: 1119
+        height: 702
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33ec0e423df34dfa0800000000000000
-      internalID: -5776922245920141773
+      spriteID: 7206e98e5b136c660800000000000000
+      internalID: 7405661294618894375
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1a85842d67e31064a920d9ca1606a3c3
+    spriteID: 672702e57bb9f934eb993284f6c51bae
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      DialogBoxpng_0: -5776922245920141773
+      Name_0: 7405661294618894375
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

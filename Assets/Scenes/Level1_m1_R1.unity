@@ -180,7 +180,7 @@ MonoBehaviour:
   antecab: {fileID: 452462434}
   craecter: {fileID: 148594360}
   craecterYOffset: 40
-  selectSound: {fileID: 0}
+  selectSound: {fileID: 8300000, guid: 582de7da39e78f84c82c12ea7ddbe74e, type: 3}
   confirmSound: {fileID: 0}
   sfxVolume: 1
   nextScene: Level1_m1_R2

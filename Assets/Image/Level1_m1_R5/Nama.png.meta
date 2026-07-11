@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 8af56e43ec474bc4dbee5e8ce0200a2a
+guid: 164ea2922ca4d8b45a5596bf34203ef1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5776922245920141773
-    second: DialogBoxpng_0
+      213: 1002057315612355891
+    second: Nama_0
+  - first:
+      213: -2968509034751083976
+    second: Nama_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DialogBoxpng_0
+      name: Nama_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 185
-        width: 1640
-        height: 756
+        x: 372
+        y: 104
+        width: 788
+        height: 858
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +131,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33ec0e423df34dfa0800000000000000
-      internalID: -5776922245920141773
+      spriteID: 33de7a5c1d508ed00800000000000000
+      internalID: 1002057315612355891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nama_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 622
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83abf1fb2ccbdc6d0800000000000000
+      internalID: -2968509034751083976
       vertices: []
       indices: 
       edges: []
@@ -138,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1a85842d67e31064a920d9ca1606a3c3
+    spriteID: a939b896733b3c64e8fa5df74a02c416
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      DialogBoxpng_0: -5776922245920141773
+      Nama_0: 1002057315612355891
+      Nama_1: -2968509034751083976
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
